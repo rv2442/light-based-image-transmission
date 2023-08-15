@@ -6,6 +6,7 @@ This project involves using two Arduino boards to transmit data using light sign
 - [Components](#components)
 - [Setup](#setup)
 - [Usage](#usage)
+- [Demo](#demo)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -39,9 +40,6 @@ This project involves using two Arduino boards to transmit data using light sign
 
 ## Demo
 [![Watch the video](https://img.youtube.com/vi/5WTtBRAi60c/0.jpg)](https://www.youtube.com/watch?v=5WTtBRAi60c)
-
-
-
 
 ## Contributing
 Contributions to this project are welcome! If you find any issues or improvements, please feel free to open an issue or submit a pull request.
