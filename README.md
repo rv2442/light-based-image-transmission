@@ -37,6 +37,9 @@ This project involves using two Arduino boards to transmit data using light sign
 4. The receiver Arduino will detect the light signals and reconstruct the data.
 5. The Python script will decode the received data and display the image.
 
+## Demo
+![Demo Video of Project](https://youtu.be/5WTtBRAi60c)
+
 ## Contributing
 Contributions to this project are welcome! If you find any issues or improvements, please feel free to open an issue or submit a pull request.
 
