@@ -38,7 +38,9 @@ This project involves using two Arduino boards to transmit data using light sign
 5. The Python script will decode the received data and display the image.
 
 ## Demo
-[![image](https://github.com/rv2442/light-based-image-transmission/assets/69571769/cc9fc5f9-9a99-4ca3-b6c3-47ece84beb3d)](https://youtu.be/5WTtBRAi60c)
+[![Watch the video](https://img.youtube.com/vi/5WTtBRAi60c/0.jpg)](https://www.youtube.com/watch?v=5WTtBRAi60c)
+
+
 
 
 ## Contributing
