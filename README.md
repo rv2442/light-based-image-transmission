@@ -41,7 +41,7 @@ This project involves using two Arduino boards to transmit data using light sign
 ## Demo
 [![Watch the video](https://img.youtube.com/vi/IdU6eCJ9Rh0/0.jpg)](https://www.youtube.com/watch?v=5WTtBRAi60c)
 
-## References
+## References (Source or Inspiration for this Project)
 https://projecthub.arduino.cc/saadsaif0333/data-transfer-using-led-light-li-fi-ee33a3
 
 ## Contributing
